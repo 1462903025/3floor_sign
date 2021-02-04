@@ -6,3 +6,6 @@ username
 
 password
 填md5加密过得密码(32位小写)
+
+SCKEY
+填你申请的推送key
